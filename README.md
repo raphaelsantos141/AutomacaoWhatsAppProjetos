@@ -1,7 +1,7 @@
 # 💬 Automação de mensagens no WhatsApp para lembrar meu supervisor
 
 Criei esse projeto porque tinha um problema simples, mas chato:  
-eu sempre esquecia de lembrar meu supervisor sobre projetos que estavam esperando aprovação.
+eu sempre esquecia de lembrar meu supervisor sobre projetos que ele precisava me dar uma resposta do cliente.
 
 Eu precisava mandar mensagem manual todo dia pelo WhatsApp, e com a correria acabava esquecendo ou mandando tarde demais.
 
