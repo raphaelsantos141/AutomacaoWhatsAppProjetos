@@ -1,0 +1,6 @@
+2025/07/11-15:21:40.763 2e7c Reusing MANIFEST C:\AutomacaoWhatsApp\edge_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/07/11-15:21:40.764 2e7c Recovering log #45
+2025/07/11-15:21:40.767 2e7c Reusing old log C:\AutomacaoWhatsApp\edge_profile\Default\EdgeCoupons/coupons_data.db/000045.log 
+2025/07/11-15:21:40.904 92ac Level-0 table #49: started
+2025/07/11-15:21:40.931 92ac Level-0 table #49: 672012 bytes OK
+2025/07/11-15:21:40.944 92ac Delete type=0 #45

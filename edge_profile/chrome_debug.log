@@ -1,0 +1,16 @@
+[11020:17096:0711/152415.817:WARNING:chrome\browser\chrome_browser_main_win.cc:1690] Edge is running elevated: 1
+[11020:17096:0711/152415.915:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
+[11020:17096:0711/152415.916:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:68] Scheduling init
+[11020:17096:0711/152416.215:ERROR:components\edge_auth\edge_auth_errors.cc:534] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: 0, Error string: 
+
+[11020:17096:0711/152416.814:INFO:CONSOLE:0] "The source list for the Content Security Policy directive 'connect-src' contains an invalid source: '*-ib.msn.com'. It will be ignored.", source: https://ntp.msn.com/edge/ntp?locale=pt-BR&title=Nova%20guia&fre=1&dsp=1&sp=Bing&feed_dis=peek&en_widget_reg=false&startpage=1&PC=U531 (0)
+[11020:17096:0711/152416.928:INFO:CONSOLE:83] "The source list for the Content Security Policy directive 'connect-src' contains an invalid source: '*-ib.msn.com'. It will be ignored.", source: https://ntp.msn.com/edge/ntp?locale=pt-BR&title=Nova%20guia&fre=1&dsp=1&sp=Bing&feed_dis=peek&en_widget_reg=false&startpage=1&PC=U531 (83)
+[11020:17096:0711/152417.129:INFO:CONSOLE:1] "-ms-high-contrast is in the process of being deprecated. Please see https://blogs.windows.com/msedgedev/2024/04/29/deprecating-ms-high-contrast/ for tips on updating to the new Forced Colors Mode standard.", source: https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.4ce0db00fadb409d133c.js (1)
+[11020:17096:0711/152417.131:INFO:CONSOLE:1] "-ms-high-contrast is in the process of being deprecated. Please see https://blogs.windows.com/msedgedev/2024/04/29/deprecating-ms-high-contrast/ for tips on updating to the new Forced Colors Mode standard.", source: https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.4ce0db00fadb409d133c.js (1)
+[11020:17096:0711/152417.400:INFO:CONSOLE:163] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yD/r/2g0rRwj_KcC.js (163)
+[30984:9672:0711/152417.564:WARNING:net\spdy\spdy_session.cc:3075] Received HEADERS for invalid stream 1
+[11020:17096:0711/152418.239:WARNING:components\prefs\pref_notifier_impl.cc:41] Pref observer for video_enhancement.mode found at shutdown.
+[30984:12788:0711/152418.347:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
+[30984:12788:0711/152418.348:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:180] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:236 to client_task_runner_.
+[11020:17096:0711/152418.414:WARNING:components\prefs\pref_notifier_impl.cc:41] Pref observer for edge_screenshot.shortcut.main found at shutdown.
+[11020:17096:0711/152418.414:WARNING:components\prefs\pref_notifier_impl.cc:41] Pref observer for browser.touch_mode found at shutdown.

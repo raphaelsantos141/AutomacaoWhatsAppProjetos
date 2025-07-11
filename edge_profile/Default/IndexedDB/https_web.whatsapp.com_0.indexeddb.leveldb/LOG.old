@@ -1,0 +1,43 @@
+2025/07/11-15:21:26.731 92ac Reusing MANIFEST C:\AutomacaoWhatsApp\edge_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/11-15:21:26.732 92ac Recovering log #274
+2025/07/11-15:21:26.790 92ac Reusing old log C:\AutomacaoWhatsApp\edge_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000274.log 
+2025/07/11-15:21:28.924 73ec Level-0 table #285: started
+2025/07/11-15:21:28.951 73ec Level-0 table #285: 456548 bytes OK
+2025/07/11-15:21:28.954 73ec Delete type=0 #274
+2025/07/11-15:21:28.955 92ac Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/11-15:21:30.887 92ac Compacting 1@1 + 6@2 files
+2025/07/11-15:21:30.992 92ac Generated table #286@1: 57684 keys, 2223081 bytes
+2025/07/11-15:21:31.039 92ac Generated table #287@1: 2316 keys, 2154236 bytes
+2025/07/11-15:21:31.092 92ac Generated table #288@1: 4084 keys, 2156674 bytes
+2025/07/11-15:21:31.183 92ac Generated table #289@1: 34790 keys, 2258747 bytes
+2025/07/11-15:21:31.279 92ac Generated table #290@1: 82430 keys, 2228687 bytes
+2025/07/11-15:21:31.287 92ac Generated table #291@1: 4577 keys, 122497 bytes
+2025/07/11-15:21:31.287 92ac Compacted 1@1 + 6@2 files => 11143922 bytes
+2025/07/11-15:21:31.288 92ac compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/07/11-15:21:31.289 92ac Delete type=2 #277
+2025/07/11-15:21:31.289 92ac Delete type=2 #278
+2025/07/11-15:21:31.289 92ac Delete type=2 #279
+2025/07/11-15:21:31.289 92ac Delete type=2 #280
+2025/07/11-15:21:31.289 92ac Delete type=2 #281
+2025/07/11-15:21:31.289 92ac Delete type=2 #282
+2025/07/11-15:21:31.289 92ac Delete type=2 #285
+2025/07/11-15:21:43.158 3100 Level-0 table #293: started
+2025/07/11-15:21:43.224 3100 Level-0 table #293: 623661 bytes OK
+2025/07/11-15:21:43.225 3100 Delete type=0 #284
+2025/07/11-15:21:43.226 92ac Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/11-15:21:45.486 7678 Compacting 1@1 + 6@2 files
+2025/07/11-15:21:45.608 7678 Generated table #294@1: 59469 keys, 2223191 bytes
+2025/07/11-15:21:45.659 7678 Generated table #295@1: 2325 keys, 2153810 bytes
+2025/07/11-15:21:45.706 7678 Generated table #296@1: 3262 keys, 2153857 bytes
+2025/07/11-15:21:45.801 7678 Generated table #297@1: 35619 keys, 2261858 bytes
+2025/07/11-15:21:45.906 7678 Generated table #298@1: 78779 keys, 2221636 bytes
+2025/07/11-15:21:45.922 7678 Generated table #299@1: 11541 keys, 269728 bytes
+2025/07/11-15:21:45.922 7678 Compacted 1@1 + 6@2 files => 11284080 bytes
+2025/07/11-15:21:45.923 7678 compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/07/11-15:21:45.923 7678 Delete type=2 #286
+2025/07/11-15:21:45.923 7678 Delete type=2 #287
+2025/07/11-15:21:45.923 7678 Delete type=2 #288
+2025/07/11-15:21:45.924 7678 Delete type=2 #289
+2025/07/11-15:21:45.924 7678 Delete type=2 #290
+2025/07/11-15:21:45.924 7678 Delete type=2 #291
+2025/07/11-15:21:45.924 7678 Delete type=2 #293
